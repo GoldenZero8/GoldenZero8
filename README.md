@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GoldenZero8
 - 👀 I’m interested in GAMING
 - 🌱 I’m currently learning BASIC OF PROGRAMMING
+- ALPRO B2
 
 <!---
 GoldenZero8/GoldenZero8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
